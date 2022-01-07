@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Cremosinho de morango",
+      "price": "2000",
+      "id": 3
+    },
+    {
+      "name": "Cremosinho de uva",
+      "price": "2500",
+      "id": 4
+    },
+    {
+      "name": "Cremosinho  de babaloo",
+      "price": "2",
+      "id": 5
+    }
+  ]
+}
